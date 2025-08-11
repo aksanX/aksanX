@@ -1,4 +1,5 @@
-# Hi there, I'm Aksan 👋
+![Typing greeting](https://your-image-link.com/typing-aksan.gif)
+
 
 🎓 **Software Engineering Student**  
 💻 Passionate about Java, C, and building real-world projects.  
