@@ -1,4 +1,4 @@
-![Typing greeting](https://your-image-link.com/typing-aksan.gif)
+#Hi I am AKSAN
 
 
 🎓 **Software Engineering Student**  
