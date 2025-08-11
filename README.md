@@ -1,4 +1,7 @@
-#Hi I am AKSAN
+
+
+![Hi, I am Aksan](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF4500&background=00000000&center=true&vCenter=true&width=400&height=50&lines=Hi,+I+am+Aksan)
+
 
 
 🎓 **Software Engineering Student**  
