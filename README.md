@@ -11,14 +11,8 @@
 
 ---
 
-### ⚡ About Me
-
-```javascript
-const aksan = {
-    fullName: "Aksan Anan Ria",
-    handle: "aksanX",
-    role: "Full Stack Software Developer",
-    code: ["JavaScript", "TypeScript", "Python", "React", "Node.js"],
-    currentFocus: "Architecting scalable apps & crafting sleek UI/UX",
-    motto: "Building elegant code out of complex ideas"
-};
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aksanX/aksanX/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aksanX/aksanX/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aksanX/aksanX/main/github-contribution-grid-snake.svg">
+</picture>
