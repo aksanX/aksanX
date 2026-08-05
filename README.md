@@ -43,30 +43,11 @@
 
 ---
 
-### 📊 GitHub Metrics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aksanX&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aksanX&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksanX&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📈 Activity Trend
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aksanX&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
 
 ### 📬 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aksananan@iut-dhaka.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
