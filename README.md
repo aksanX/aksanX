@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <i>Curious learner passionate about building software, backend architectures, and automation.</i>
+  <i>Curious learner,passionate about building software, backend architectures, and automation.</i>
 </p>
 
 ---
