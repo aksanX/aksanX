@@ -1,6 +1,6 @@
 <!-- Dynamic Header Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F72585&center=true&vcenter=true&width=700&lines=Hi+There!+I'm+Aksan;Software+Engineering+Student;Tech+Explorer+%26+Builder alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F72585&center=true&vcenter=true&width=700&lines=Hi+There!+I'm+Aksan;Software+Engineering+Student;Tech+Explorer+%26+Builder; alt="Typing SVG" />
 </h1>
 
 <p align="center">
