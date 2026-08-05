@@ -1,29 +1,24 @@
+<!-- Header Banner / Typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72585&center=true&vcenter=true&width=600&lines=Hi+There!+I'm+Aksan+Anan+Ria;Full+Stack+Software+Developer;Tech+Explorer+%26+Builder;Welcome+to+my+Digital+Garden!" alt="Typing SVG" />
+</h1>
 
-
-![Hi, I am Aksan](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF4500&background=00000000&center=true&vCenter=true&width=400&height=50&lines=Hi,+I+am+Aksan)
-
-
-
-🎓 **Software Engineering Student**  
-💻 Passionate about Java, C, and building real-world projects.  
-🚀 Always learning and sharing my work here on GitHub.  
-
----
-
-## 🛠 Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <a href="https://github.com/aksanX">
+    <img src="https://komarev.com/ghpvc/?username=aksanX&color=7b2cbf&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aksanX&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aksanX&layout=compact&theme=tokyonight)
+### ⚡ About Me
 
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-aksananan@iut--dhaka.edu-red?style=for-the-badge)](mailto:aksananan@iut-dhaka.edu)
+```javascript
+const aksan = {
+    fullName: "Aksan Anan Ria",
+    handle: "aksanX",
+    role: "Full Stack Software Developer",
+    code: ["JavaScript", "TypeScript", "Python", "React", "Node.js"],
+    currentFocus: "Architecting scalable apps & crafting sleek UI/UX",
+    motto: "Building elegant code out of complex ideas"
+};
